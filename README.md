@@ -7,3 +7,5 @@ https://github.com/AN2100/Machine-Learning-Lab-Mtech/blob/main/pca/pca.ipynb
 https://github.com/AN2100/Machine-Learning-Lab-Mtech/blob/main/lda/lda.ipynb
 ### Lab 4 KNN and K means Clustering
 https://github.com/AN2100/Machine-Learning-Lab-Mtech/blob/main/KNN%20and%20K%20means/knn.ipynb
+### Lab 5 Gradient Decent
+https://github.com/AN2100/Machine-Learning-Lab-Mtech/blob/main/Gradient%20Descent.ipynb
